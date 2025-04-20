@@ -1,8 +1,6 @@
 # Serial-MCP
 MCP server allowing Agents to talk to devices connected to serial port of the computer. Tested only with MAC atm.
 
-# Serial MCP
-
 A robust serial communication server built with FastMCP framework, providing a reliable interface for serial port communication with features like message buffering, error handling, and connection management.
 
 ## Installation
